@@ -9,6 +9,7 @@ I started doing this for fun but I also want pepole to see and use my work.
 `BACKGROUND`  
 **Python** - Focused on automation and small tools, I also enjoy building scripts and experimenting with different ideas.  
 **JavaScript** - Built discord bots that were used for moderation but also for fun.  
+You can check all projects in my repositories.
   
 `CONTACT`  
 If you want me to make something for you feel free to contact me:  
